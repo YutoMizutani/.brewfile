@@ -56,6 +56,8 @@ cask "chromedriver"
 cask "cyberduck"
 cask "dbeaver-community"
 cask "docker"
+cask "dropbox"
+cask "gimp"
 cask "google-chrome"
 cask "hammerspoon"
 cask "iterm2"
@@ -74,8 +76,11 @@ cask "visual-studio-code"
 mas "CotEditor", id: 1024640650
 mas "Filedrop", id: 659443478
 mas "Keynote", id: 409183694
+mas "LanScan", id: 472226235
 mas "LastPass", id: 926036361
 mas "Magnet", id: 441258766
+mas "Octotree Pro", id: 1457450145
 mas "Pocket", id: 568494494
 mas "Slack", id: 803453959
+mas "Xcode", id: 497799835
 mas "Xcode", id: 497799835
