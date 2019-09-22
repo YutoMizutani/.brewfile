@@ -53,31 +53,27 @@ cask "appcleaner"
 cask "aquaskk"
 cask "atom"
 cask "chromedriver"
+cask "coteditor"
 cask "cyberduck"
 cask "dbeaver-community"
 cask "docker"
+cask "filedrop"
 cask "google-chrome"
 cask "hammerspoon"
 cask "java"
 cask "keepingyouawake"
+cask "lastpass"
 cask "macdown"
 cask "ngrok"
 cask "sequel-pro-nightly"
 cask "skitch"
 cask "skype"
+cask "slack"
 cask "sleipnir"
 cask "the-unarchiver"
 cask "vagrant"
 cask "visual-studio-code"
-mas "Alfred", id: 405843582
-mas "CotEditor", id: 1024640650
-mas "Filedrop", id: 659443478
 mas "Keynote", id: 409183694
-mas "LastPass", id: 926036361
 mas "Magnet", id: 441258766
-mas "Numbers", id: 409203825
-mas "Octotree Pro", id: 1457450145
-mas "Pages", id: 409201541
 mas "Pocket", id: 568494494
-mas "Slack", id: 803453959
 mas "Xcode", id: 497799835
