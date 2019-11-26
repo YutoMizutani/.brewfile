@@ -82,9 +82,11 @@ cask "vagrant"
 cask "visual-studio-code"
 cask "zeplin"
 mas "CotEditor", id: 1024640650
+mas "Filedrop", id: 659443478
 mas "Keynote", id: 409183694
 mas "LastPass", id: 926036361
 mas "Magnet", id: 441258766
 mas "Pocket", id: 568494494
 mas "Slack", id: 803453959
+mas "Transporter", id: 1450874784
 mas "Xcode", id: 497799835
