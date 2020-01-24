@@ -17,6 +17,7 @@ brew "bash"
 brew "bitrise"
 brew "carthage"
 brew "cmake"
+brew "eigen"
 brew "direnv"
 brew "ffmpeg"
 brew "gibo"
@@ -35,7 +36,9 @@ brew "mysql"
 brew "ninja"
 brew "nodebrew"
 brew "nvm"
+brew "opencv"
 brew "peco"
+brew "postgresql"
 brew "pyenv"
 brew "pyenv-virtualenv"
 brew "qrencode"
@@ -82,7 +85,6 @@ cask "vagrant"
 cask "visual-studio-code"
 cask "zeplin"
 mas "CotEditor", id: 1024640650
-mas "Filedrop", id: 659443478
 mas "Keynote", id: 409183694
 mas "LastPass", id: 926036361
 mas "Magnet", id: 441258766
