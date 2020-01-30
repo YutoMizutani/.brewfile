@@ -46,6 +46,7 @@ brew "ruby-build"
 brew "rbenv"
 brew "rename"
 brew "sbt"
+brew "swiftlint"
 brew "tig"
 brew "tree"
 brew "vim"
@@ -85,6 +86,7 @@ cask "vagrant"
 cask "visual-studio-code"
 cask "zeplin"
 mas "CotEditor", id: 1024640650
+mas "Fotor Photo Editor", id: 503039729
 mas "Keynote", id: 409183694
 mas "LastPass", id: 926036361
 mas "Magnet", id: 441258766
