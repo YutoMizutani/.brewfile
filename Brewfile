@@ -49,6 +49,7 @@ brew "pipenv"
 brew "pyenv"
 brew "pyenv-virtualenv"
 brew "qrencode"
+brew "ruby-build"
 brew "rbenv"
 brew "rename"
 brew "s3cmd"
@@ -83,5 +84,8 @@ cask "the-unarchiver"
 cask "zeplin"
 mas "Keynote", id: 409183694
 mas "LINE WORKS", id: 1029784963
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Word", id: 462054704
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Xcode", id: 497799835
