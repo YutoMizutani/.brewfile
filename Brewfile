@@ -26,6 +26,7 @@ brew "docker", link: false
 brew "docker-clean"
 brew "eigen"
 brew "ffmpeg"
+brew "fzf"
 brew "gh"
 brew "gibo"
 brew "git"
