@@ -10,18 +10,26 @@ $ cd .brewfile
 $ make restore
 ```
 
-## Install
+## Install Homebrew
 
 `$ make install`
 
-## Restore
+## Update packages
+
+`$ make update`
+
+## Restore packages
 
 `$ make restore`
 
-## Export
+## Export packages
 
 `$ make export`
 
-## Cleanup
+## Cleanup Homebrew
 
 `$ make cleanup`
+
+## Cleanup unused packages
+
+`$ make cleanup-packages`
